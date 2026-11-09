@@ -1,0 +1,5 @@
+area,source_section,source_pages,survey_summary_paraphrase,companion_note,provenance
+Diagnostic tools and clinical decision support,7.1,9,Explanations can accompany risk estimates and decision-support predictions.,Consider the clinical task and stakeholder information needs; no diagnostic tool is provided here.,section_level_index_not_independent_primary_study_verification
+Personalised medicine,7.2,9,Explanation methods are discussed in relation to patient-specific treatment and risk information.,Do not equate an explanatory feature attribution with an individual treatment effect.,section_level_index_not_independent_primary_study_verification
+Medical imaging,7.3,9,Visual attribution and other methods are discussed for image-based applications.,Evaluate explanation fidelity and shortcuts separately from predictive accuracy.,section_level_index_not_independent_primary_study_verification
+Remote diagnostics and telemedicine,7.4,10,Explanations are discussed as support for interpretation in remote care settings.,"Assess context, infrastructure and user needs before drawing deployment conclusions.",section_level_index_not_independent_primary_study_verification

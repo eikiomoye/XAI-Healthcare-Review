@@ -1,0 +1,47 @@
+{
+  "source_filename": "1-s2.0-S2352914824001448-main.pdf",
+  "source_sha256": "5e1f130763701364646f20c712583c6ba3ff6a467e263f1b3c605e99f4c353f5",
+  "source_pages": 15,
+  "doi": "10.1016/j.imu.2024.101587",
+  "paper_year": 2024,
+  "companion_prepared": "2026-11-09",
+  "authors_published_order": [
+    {
+      "family": "Mienye",
+      "given": "Ibomoiye Domor"
+    },
+    {
+      "family": "Obaido",
+      "given": "George"
+    },
+    {
+      "family": "Jere",
+      "given": "Nobert"
+    },
+    {
+      "family": "Mienye",
+      "given": "Ebikella"
+    },
+    {
+      "family": "Aruleba",
+      "given": "Kehinde"
+    },
+    {
+      "family": "Emmanuel",
+      "given": "Ikiomoye Douglas"
+    },
+    {
+      "family": "Ogbuokiri",
+      "given": "Blessing"
+    }
+  ],
+  "emmanuel_published_credit_roles": [
+    "Writing - review and editing",
+    "Writing - original draft",
+    "Validation"
+  ],
+  "credit_source_page": 12,
+  "reference_count": 131,
+  "catalogue_status": "post_publication_extraction_not_original_screening_data",
+  "independent_primary_study_verification": false
+}

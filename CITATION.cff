@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the associated seven-author survey. This companion catalogue was extracted later from the published PDF."
+type: dataset
+title: "Explainable AI in Healthcare: Survey Companion"
+authors:
+  - family-names: Emmanuel
+    given-names: Ikiomoye Douglas
+preferred-citation:
+  type: article
+  title: "A survey of explainable artificial intelligence in healthcare: Concepts, applications, and challenges"
+  authors:
+    - family-names: Mienye
+      given-names: Ibomoiye Domor
+    - family-names: Obaido
+      given-names: George
+    - family-names: Jere
+      given-names: Nobert
+    - family-names: Mienye
+      given-names: Ebikella
+    - family-names: Aruleba
+      given-names: Kehinde
+    - family-names: Emmanuel
+      given-names: Ikiomoye Douglas
+    - family-names: Ogbuokiri
+      given-names: Blessing
+  journal: "Informatics in Medicine Unlocked"
+  volume: "51"
+  year: 2024
+  doi: "10.1016/j.imu.2024.101587"
+  url: "https://doi.org/10.1016/j.imu.2024.101587"

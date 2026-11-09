@@ -1,0 +1,6 @@
+dimension,source_section,source_pages,survey_summary_paraphrase,companion_reading_question,survey_reference_numbers,provenance
+Fidelity,5.1,7,Agreement between an explanation or surrogate and the model being explained.,"How is agreement measured on relevant inputs, and where does the explanation fail?",72;73,new_companion_summary_of_published_survey
+Interpretability,5.2,7,How understandable an explanation is to its intended user.,"Which audience and task are evaluated, and what user-study evidence is available?",6,new_companion_summary_of_published_survey
+Stability,5.3,7,Consistency of explanations under small input changes or repetitions.,"Are prediction changes distinguished from explanation instability, with repeatable perturbations?",74,new_companion_summary_of_published_survey
+Completeness,5.4,7,How much of the model output or relevant information is captured by the explanation.,"What definition of completeness is used, and what does its scope exclude?",75;76,new_companion_summary_of_published_survey
+Sparsity,5.5,8,The number or concentration of influential components in an explanation.,Does a shorter explanation retain sufficient fidelity and relevance for the intended task?,77,new_companion_summary_of_published_survey

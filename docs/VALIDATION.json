@@ -1,0 +1,156 @@
+{
+  "scope": "structural and metadata validation of post-publication companion, not independent verification of each cited publication",
+  "date": "2026-11-09",
+  "passed": 37,
+  "total": 37,
+  "checks": [
+    {
+      "check": "131 unique continuous bibliography numbers",
+      "passed": true
+    },
+    {
+      "check": "Reference CSV and JSON agree exactly",
+      "passed": true
+    },
+    {
+      "check": "Each reference has citation text and source location",
+      "passed": true
+    },
+    {
+      "check": "methods.csv count",
+      "passed": true
+    },
+    {
+      "check": "methods.csv source sections and pages",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Decision trees",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Rule-based systems",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Attention mechanisms",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Grad-CAM / CNN visual attribution",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Bayesian networks",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference SHAP",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference LIME",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Partial dependence plots (PDP)",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Individual conditional expectation (ICE)",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Surrogate models",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Counterfactual explanations",
+      "passed": true
+    },
+    {
+      "check": "methods.csv cross-reference Permutation feature importance",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv count",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv source sections and pages",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv cross-reference Fidelity",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv cross-reference Interpretability",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv cross-reference Stability",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv cross-reference Completeness",
+      "passed": true
+    },
+    {
+      "check": "evaluation_dimensions.csv cross-reference Sparsity",
+      "passed": true
+    },
+    {
+      "check": "application_areas.csv count",
+      "passed": true
+    },
+    {
+      "check": "application_areas.csv source sections and pages",
+      "passed": true
+    },
+    {
+      "check": "research_directions.csv count",
+      "passed": true
+    },
+    {
+      "check": "research_directions.csv source sections and pages",
+      "passed": true
+    },
+    {
+      "check": "Citation includes all seven authors in source order",
+      "passed": true
+    },
+    {
+      "check": "Source PDF hash agrees",
+      "passed": true
+    },
+    {
+      "check": "Paper DOI agrees",
+      "passed": true
+    },
+    {
+      "check": "CLI exact reference 104",
+      "passed": true
+    },
+    {
+      "check": "CLI exact reference 131",
+      "passed": true
+    },
+    {
+      "check": "CLI exact reference 999",
+      "passed": true
+    },
+    {
+      "check": "CLI text search returns relevant citation",
+      "passed": true
+    },
+    {
+      "check": "CLI rejects zero limit",
+      "passed": true
+    },
+    {
+      "check": "Search utility compiles",
+      "passed": true
+    }
+  ]
+}

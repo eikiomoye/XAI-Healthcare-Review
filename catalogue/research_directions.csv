@@ -1,0 +1,7 @@
+direction,source_section,source_page,survey_summary_paraphrase,provenance
+Inherently interpretable models,9,11,Explore models designed to expose their decision logic.,new_companion_paraphrase_of_survey_future_work
+Causal inference,9,11,Investigate explanations that address causal questions under explicit assumptions.,new_companion_paraphrase_of_survey_future_work
+Visualisation and hybrid models,9,11,Improve explanation interfaces and combinations of transparent and complex models.,new_companion_paraphrase_of_survey_future_work
+Real-time interpretability and NLP,9,11,Explore timely and human-readable explanations in clinical contexts.,new_companion_paraphrase_of_survey_future_work
+Robustness and generalisation,9,12,Examine explanation consistency across heterogeneous settings and data.,new_companion_paraphrase_of_survey_future_work
+Ethics and regulatory context,9,12,"Study privacy, bias and evolving governance alongside explainability.",new_companion_paraphrase_of_survey_future_work

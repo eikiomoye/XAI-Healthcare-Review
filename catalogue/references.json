@@ -1,0 +1,919 @@
+[
+  {
+    "reference_number": 1,
+    "citation_text": "Lee C-H, Wang C, Fan X, Li F, Chen C-H. Artificial intelligence-enabled digital transformation in elderly healthcare field: Scoping review. Adv Eng Inform 2023;55:101874. http://dx.doi.org/10.1016/j.aei.2023.101874.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 2,
+    "citation_text": "Obaido G, Mienye ID, Egbelowo OF, Emmanuel ID, Ogunleye A, Og- buokiri B, et al. Supervised machine learning in drug discovery and development: Algorithms, applications, challenges, and prospects. Mach Learn Appl 2024;17:100576. http://dx.doi.org/10.1016/j.mlwa.2024.100576.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 3,
+    "citation_text": "Lesley U, Kuratomi Hernández A. Improving XAI explanations for clinical decision-making - Physicians’ perspective on local explanations in healthcare. In: Lecture notes in computer science. Springer Nature Switzerland; 2024, p. 296-312. http://dx.doi.org/10.1007/978-3-031-66535-6_32.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 4,
+    "citation_text": "Khalifa M, Albadawy M. AI in diagnostic imaging: Revolutionising accuracy and efficiency. Comput Methods Programs Biomed Update 2024;5:100146. http://dx.doi.org/10.1016/j.cmpbup.2024.100146.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 5,
+    "citation_text": "Lu S-C, Swisher CL, Chung C, Jaffray D, Sidey-Gibbons C. On the importance of interpretable machine learning predictions to inform clinical decision making in oncology. Front Oncol 2023;13. http://dx.doi.org/10.3389/fonc.2023.1129380.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 6,
+    "citation_text": "Mienye ID, Jere N. Deep learning for credit card fraud detection: A review of algorithms, challenges, and solutions. IEEE Access 2024;12:96893-910. http: //dx.doi.org/10.1109/ACCESS.2024.3426955.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 7,
+    "citation_text": "Hulsen T. Explainable artificial intelligence (XAI): Concepts and challenges in healthcare. AI 2023;4(3):652-66. http://dx.doi.org/10.3390/ai4030034, URL https://www.mdpi.com/2673-2688/4/3/34.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 8,
+    "citation_text": "Borys K, Schmitt YA, Nauta M, Seifert C, Krämer N, Friedrich CM, et al. Explainable AI in medical imaging: An overview for clinical practitioners - Beyond saliency-based XAI approaches. Eur J Radiol 2023;162:110786. http: //dx.doi.org/10.1016/j.ejrad.2023.110786.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 9,
+    "citation_text": "Obaido G, Ogbuokiri B, Chukwu CW, Osaye FJ, Egbelowo OF, Uzochukwu MI, et al. An improved ensemble method for predicting hyperchloremia in adults with diabetic ketoacidosis. IEEE Access 2024;12:9536-49. http://dx.doi.org/10. 1109/ACCESS.2024.3351188.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 10,
+    "citation_text": "Alowais SA, Alghamdi SS, Alsuhebany N, Alqahtani T, Alshaya AI, Almo- hareb SN, et al. Revolutionizing healthcare: the role of artificial intelligence in clinical practice. BMC Med Educ 2023;23(1). http://dx.doi.org/10.1186/ s12909-023-04698-z.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 11,
+    "citation_text": "Rong G, Mendez A, Bou Assi E, Zhao B, Sawan M. Artificial intelligence in healthcare: Review and prediction case studies. Engineering 2020;6(3):291-301. http://dx.doi.org/10.1016/j.eng.2019.08.015, URL https://www.sciencedirect. com/science/article/pii/S2095809919301535.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 12,
+    "citation_text": "Loh HW, Ooi CP, Seoni S, Barua PD, Molinari F, Acharya UR. Application of explainable artificial intelligence for healthcare: A systematic review of the last decade (2011-2022). Comput Methods Programs Biomed 2022;226:107161. http://dx.doi.org/10.1016/j.cmpb.2022.107161.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 13,
+    "citation_text": "Li RC, Asch SM, Shah NH. Developing a delivery science for artificial in- telligence in healthcare. npj Digit Med 2020;3(1). http://dx.doi.org/10.1038/ s41746-020-00318-y.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 14,
+    "citation_text": "Maleki Varnosfaderani S, Forouzanfar M. The role of AI in hospitals and clinics: Transforming healthcare in the 21st century. Bioengineering 2024;11(4). http://dx.doi.org/10.3390/bioengineering11040337.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 15,
+    "citation_text": "Bedoya JCL, Castro JLA. Explainability analysis in predictive models based on machine learning techniques on the risk of hospital readmissions. Health Technol 2023;14(1):93-108. http://dx.doi.org/10.1007/s12553-023-00794-8.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 16,
+    "citation_text": "Blanco-Gonzalez A, Cabezon A, Seco-Gonzalez A, Conde Torres D, Antelo Riveiro P, Pineiro A, et al. The role of AI in drug discovery: Challenges, opportunities, and strategies. Pharmaceuticals 2023;16(6). http://dx.doi.org/10. 3390/ph16060891, URL https://www.mdpi.com/1424-8247/16/6/891.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 17,
+    "citation_text": "Walters WP, Barzilay R. Critical assessment of AI in drug discovery. Expert Opin Drug Discovery 2021;16(9):937-47. http://dx.doi.org/10.1080/17460441.2021. 1915982.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 18,
+    "citation_text": "Rogers WA, Draper H, Carter SM. Evaluation of artificial intelligence clinical applications: Detailed case analyses show value of healthcare ethics approach in identifying patient care issues. Bioethics 2021;35(7):623-33. http://dx.doi. org/10.1111/bioe.12885.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 19,
+    "citation_text": "Kalra N, Verma P, Verma S. Advancements in AI based healthcare techniques with FOCUS ON diagnostic techniques. Comput Biol Med 2024;179:108917. http://dx.doi.org/10.1016/j.compbiomed.2024.108917.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 20,
+    "citation_text": "Liu C, Tan Z, He M. Overview of artificial intelligence in medicine. In: Artificial intelligence in medicine. Springer Nature Singapore; 2022, p. 23-34. http: //dx.doi.org/10.1007/978-981-19-1223-8_2.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 21,
+    "citation_text": "Barredo Arrieta A, Díaz-Rodríguez N, Del Ser J, Bennetot A, Tabik S, Barbado A, et al. Explainable artificial intelligence (XAI): Concepts, taxonomies, opportuni- ties and challenges toward responsible AI. Inf Fusion 2020;58:82-115. http:// dx.doi.org/10.1016/j.inffus.2019.12.012, URL https://www.sciencedirect.com/ science/article/pii/S1566253519308103.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 22,
+    "citation_text": "Tosun AB, Pullara F, Becich MJ, Taylor DL, Chennubhotla SC, Fine JL. HistoM- apr: An explainable AI (xAI) platform for computational pathology solutions. In: Lecture notes in computer science. Springer International Publishing; 2020, p. 204-27. http://dx.doi.org/10.1007/978-3-030-50402-113.",
+    "source_page": 12,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 23,
+    "citation_text": "Longo L, Brcic M, Cabitza F, Choi J, Confalonieri R, Ser JD, et al. Ex- plainable artificial intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions. Inf Fusion 2024;106:102301. http:// dx.doi.org/10.1016/j.inffus.2024.102301, URL https://www.sciencedirect.com/ science/article/pii/S1566253524000794.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 24,
+    "citation_text": "Adadi A, Berrada M. Peeking inside the black-box: A survey on explainable artificial intelligence (XAI). IEEE Access 2018;6:52138-60. http://dx.doi.org/ 10.1109/ACCESS.2018.2870052.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 25,
+    "citation_text": "Dignum V. Responsible artificial intelligence. In: Artificial Intelligence: Foun- dations, Theory, and Algorithms. Springer International Publishing; 2019, http: //dx.doi.org/10.1007/978-3-030-30371-6.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 26,
+    "citation_text": "Mienye ID, Obaido G, Emmanuel ID, Ajani AA. A survey of bias and fairness in healthcare AI. In: 2024 IEEE 12th international conference on health- care informatics. 2024, p. 642-50. http://dx.doi.org/10.1109/ICHI61247.2024. 00103.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 27,
+    "citation_text": "Konstantinov AV, Utkin LV. Interpretable machine learning with an ensemble of gradient boosting machines. Knowl-Based Syst 2021;222:106993. http://dx. doi.org/10.1016/j.knosys.2021.106993.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 28,
+    "citation_text": "Raghavan K. Attention guided grad-CAM: an improved explainable artificial intelligence model for infrared breast cancer detection. Multimedia Tools Appl 2024;83(19):57551-78.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 29,
+    "citation_text": "Khan N, Nauman M, Almadhor AS, Akhtar N, Alghuried A, Alhudhaif A. Guaranteeing correctness in black-box machine learning: A fusion of explain- able AI and formal methods for healthcare decision-making. IEEE Access 2024;12:90299-316. http://dx.doi.org/10.1109/ACCESS.2024.3420415.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 30,
+    "citation_text": "Holzinger A, Biemann C, Pattichis CS, Kell DB. What do we need to build explainable AI systems for the medical domain?. 2017, arXiv:1712.09923. URL https://arxiv.org/abs/1712.09923.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 31,
+    "citation_text": "Singla S. AI and IoT in healthcare. In: Internet of things use cases for the healthcare industry. Springer International Publishing; 2020, p. 1-23. http: //dx.doi.org/10.1007/978-3-030-37526-3_1.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 32,
+    "citation_text": "Esteva A, Robicquet A, Ramsundar B, Kuleshov V, DePristo M, Chou K, et al. A guide to deep learning in healthcare. Nature Med 2019;25(1):24-9. http://dx.doi.org/10.1038/s41591-018-0316-z.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 33,
+    "citation_text": "Kaul D, Raju H, Tripathy BK. Deep learning in healthcare. In: Studies in big data. Springer International Publishing; 2021, p. 97-115. http://dx.doi.org/10. 1007/978-3-030-75855-4_6.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 34,
+    "citation_text": "Hassija V, Chamola V, Mahapatra A, Singal A, Goel D, Huang K, et al. Inter- preting black-box models: A review on explainable artificial intelligence. Cogn Comput 2023;16(1):45-74. http://dx.doi.org/10.1007/s12559-023-10179-8.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 35,
+    "citation_text": "Peters U. Explainable AI lacks regulative reasons: why AI and human decision- making are not equally opaque. AI Ethics 2022;3(3):963-74. http://dx.doi.org/ 10.1007/s43681-022-00217-w.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 36,
+    "citation_text": "Guidotti R, Monreale A, Ruggieri S, Turini F, Giannotti F, Pedreschi D. A survey of methods for explaining black box models. ACM Comput Surv (CSUR) 2018;51(5):1-42.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 37,
+    "citation_text": "Doshi-Velez F, Kim B. Towards a rigorous science of interpretable machine learning. 2017, arXiv:1702.08608. URL https://arxiv.org/abs/1702.08608.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 38,
+    "citation_text": "Holzinger A. Interactive machine learning for health informatics: when do we need the human-in-the-loop? Brain Inform 2016;3(2):119-31. http://dx.doi.org/ 10.1007/s40708-016-0042-6.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 39,
+    "citation_text": "Carvalho DV, Pereira EM, Cardoso JS. Machine learning interpretability: A survey on methods and metrics. Electronics 2019;8(8). http://dx.doi.org/10. 3390/electronics8080832.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 40,
+    "citation_text": "Okolo CT, Aruleba K, Obaido G. Responsible AI in Africa-Challenges and opportunities. In: Social and cultural studies of robots and AI. Springer In- ternational Publishing; 2023, p. 35-64. http://dx.doi.org/10.1007/978-3-031- 08215-3_3.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 41,
+    "citation_text": "Pearl J. Theoretical impediments to machine learning with seven sparks from the causal revolution. 2018, arXiv:1801.04016. URL https://arxiv.org/abs/ 1801.04016.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 42,
+    "citation_text": "Kumar S, Datta S, Singh V, Datta D, Kumar Singh S, Sharma R. Applications, challenges, and future directions of human-in-the-loop learning. IEEE Access 2024;12:75735-60. http://dx.doi.org/10.1109/ACCESS.2024.3401547.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 43,
+    "citation_text": "Mehrabi N, Morstatter F, Saxena N, Lerman K, Galstyan A. A survey on bias and fairness in machine learning. ACM Comput Surv 2021;54(6). http: //dx.doi.org/10.1145/3457607.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 44,
+    "citation_text": "Hong J-S, Lee J, Sim MK. Concise rule induction algorithm based on one- sided maximum decision tree approach. Expert Syst Appl 2024;237:121365. http://dx.doi.org/10.1016/j.eswa.2023.121365.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 45,
+    "citation_text": "Frnkranz J, Gamberger D, Lavrac N. Foundations of rule learning. Springer Publishing Company, Incorporated; 2012.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 46,
+    "citation_text": "Brown A, Tuor A, Hutchinson B, Nichols N. Recurrent neural network attention mechanisms for interpretable system log anomaly detection. In: Proceedings of the first workshop on machine learning for computing systems. 2018, p. 1-8.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 47,
+    "citation_text": "Dong Y, Su H, Zhu J, Zhang B. Improving interpretability of deep neural networks with semantic information. In: 2017 IEEE conference on computer vision and pattern recognition. 2017, p. 975-83. http://dx.doi.org/10.1109/ CVPR.2017.110.",
+    "source_page": 13,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 48,
+    "citation_text": "Mienye ID, Swart TG. A hybrid deep learning approach with generative adversarial network for credit card fraud detection. Technologies 2024;12(10). http://dx.doi.org/10.3390/technologies12100186.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 49,
+    "citation_text": "Chaudhari S, Mithal V, Polatkan G, Ramanath R. An attentive survey of attention models. ACM Trans Intell Syst Technol 2021;12(5). http://dx.doi.org/ 10.1145/3465055.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 50,
+    "citation_text": "Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate. 2014, arXiv preprint arXiv:1409.0473.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 51,
+    "citation_text": "Selvaraju RR, Cogswell M, Das A, Vedantam R, Parikh D, Batra D. Grad- CAM: Visual explanations from deep networks via gradient-based localization. In: 2017 IEEE international conference on computer vision. 2017, p. 618-26. http://dx.doi.org/10.1109/ICCV.2017.74.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 52,
+    "citation_text": "Mienye E, Jere N, Obaido G, Mienye ID, Aruleba K. Deep learning in finance: A survey of applications and techniques. 2024, http://dx.doi.org/10.20944/ preprints202408.1365.v1, Preprints.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 53,
+    "citation_text": "Kitson NK, Constantinou AC, Guo Z, Liu Y, Chobtham K. A survey of Bayesian network structure learning. Artif Intell Rev 2023;56(8):8721-814. http://dx.doi. org/10.1007/s10462-022-10351-w.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 54,
+    "citation_text": "Mienye ID, Jere N. Optimized ensemble learning approach with explain- able AI for improved heart disease prediction. Information 2024;15(7). http: //dx.doi.org/10.3390/info15070394, URL https://www.mdpi.com/2078-2489/ 15/7/394.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 55,
+    "citation_text": "Costa VG, Pedreira CE. Recent advances in decision trees: an updated survey. Artif Intell Rev 2022;56(5):4765-800. http://dx.doi.org/10.1007/s10462-022- 10275-5.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 56,
+    "citation_text": "Mienye ID, Swart TG, Obaido G. Recurrent neural networks: A comprehensive review of architectures, variants, and applications. Information 2024;15(9):517. http://dx.doi.org/10.3390/info15090517.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 57,
+    "citation_text": "Ye Z, Yang W, Yang Y, Ouyang D. Interpretable machine learning methods for in vitro pharmaceutical formulation development. Food Front 2021;2(2):195-207. http://dx.doi.org/10.1002/fft2.78.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 58,
+    "citation_text": "Bifarin OO. Interpretable machine learning with tree-based shapley additive explanations: Application to metabolomics datasets for binary classification. In: Ashraf I, editor. PLOS ONE 2023;18(5):e0284315. http://dx.doi.org/10.1371/ journal.pone.0284315.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 59,
+    "citation_text": "Dewi C, Tsai B-J, Chen R-C. Shapley additive explanations for text classification and sentiment analysis of internet movie database. In: Communications in computer and information science. Springer Nature Singapore; 2022, p. 69-80. http://dx.doi.org/10.1007/978-981-19-8234-7_6.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 60,
+    "citation_text": "Zhao X, Huang W, Huang X, Robu V, Flynn D. BayLIME: Bayesian local interpretable model-agnostic explanations. In: de Campos C, Maathuis MH, editors. Proceedings of the thirty-seventh conference on uncertainty in artificial intelligence. Proceedings of machine learning research, vol. 161, PMLR; 2021, p. 887-96, URL https://proceedings.mlr.press/v161/zhao21a.html.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 61,
+    "citation_text": "Ribeiro MT, Singh S, Guestrin C. \"Why Should I Trust You?\": Explaining the predictions of any classifier. In: Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. New York, NY, USA: Association for Computing Machinery; 2016, p. 1135-44. http://dx. doi.org/10.1145/2939672.2939778.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 62,
+    "citation_text": "Molnar C, Freiesleben T, König G, Herbinger J, Reisinger T, Casalicchio G, et al. Relating the partial dependence plot and permutation feature importance to the data generating process. In: Communications in computer and information science. Springer Nature Switzerland; 2023, p. 456-79. http://dx.doi.org/10. 1007/978-3-031-44064-9_24.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 63,
+    "citation_text": "Peng J, Zou K, Zhou M, Teng Y, Zhu X, Zhang F, Xu J. An explainable artificial intelligence framework for the deterioration risk prediction of hepatitis patients. J Med Syst 2021;45(5). http://dx.doi.org/10.1007/s10916-021-01736-5.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 64,
+    "citation_text": "Goldstein A, Kapelner A, Bleich J, Pitkin E. Peeking inside the black box: Visualizing statistical learning with plots of individual conditional expectation. J Comput Graph Statist 2015;24(1):44-65. http://dx.doi.org/10.1080/10618600. 2014.907095.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 65,
+    "citation_text": "Molnar C, König G, Bischl B, Casalicchio G. Model-agnostic feature importance and effects with dependent features: a conditional subgroup approach. Data Min Knowl Discov 2023;38(5):2903-41. http://dx.doi.org/10.1007/s10618- 022-00901-9.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 66,
+    "citation_text": "Zhu X, Wang D, Pedrycz W, Li Z. Fuzzy rule-based local surrogate models for black-box model explanation. IEEE Trans Fuzzy Syst 2023;31(6):2056-64. http://dx.doi.org/10.1109/TFUZZ.2022.3218426.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 67,
+    "citation_text": "Ali M, Khattak AM, Ali Z, Hayat B, Idrees M, Pervez Z, et al. Estimation and interpretation of machine learning models with customized surrogate model. Electronics 2021;10(23). http://dx.doi.org/10.3390/electronics10233045, URL https://www.mdpi.com/2079-9292/10/23/3045.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 68,
+    "citation_text": "Del Ser J, Barredo-Arrieta A, Díaz-Rodríguez N, Herrera F, Saranti A, Holzinger A. On generating trustworthy counterfactual explanations. Inform Sci 2024;655:119898. http://dx.doi.org/10.1016/j.ins.2023.119898.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 69,
+    "citation_text": "Slack D, Hilgard A, Lakkaraju H, Singh S. Counterfactual explanations can be manipulated. In: Ranzato M, Beygelzimer A, Dauphin Y, Liang P, Vaughan JW, editors. In: Advances in neural information processing systems, vol. 34, Curran Associates, Inc.; 2021, p. 62-75.",
+    "source_page": 13,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 70,
+    "citation_text": "Hooker G, Mentch L, Zhou S. Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free vari- able importance. Stat Comput 2021;31(6). http://dx.doi.org/10.1007/s11222- 021-10057-z.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 71,
+    "citation_text": "Oh T, Kim D, Lee S, Won C, Kim S, Yang J-s, et al. Machine learning-based diagnosis and risk factor analysis of cardiocerebrovascular disease based on KNHANES. Sci Rep 2022;12(1). http://dx.doi.org/10.1038/s41598-022-06333- 1.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 72,
+    "citation_text": "Velmurugan M, Ouyang C, Moreira C, Sindhgatta R. Evaluating fidelity of explainable methods for predictive process analytics. In: Lecture notes in business information processing. Springer International Publishing; 2021, p. 64-72. http://dx.doi.org/10.1007/978-3-030-79108-7_8.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 73,
+    "citation_text": "Miró-Nicolau M, i Capó AJ, Moyà-Alcover G. Assessing fidelity in XAI post-hoc techniques: A comparative study with ground truth explanations datasets. Ar- tificial Intelligence 2024;335:104179. http://dx.doi.org/10.1016/j.artint.2024. 104179.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 74,
+    "citation_text": "Visani G, Bagli E, Chesani F, Poluzzi A, Capuzzo D. Statistical stability indices for LIME: Obtaining reliable explanations for machine learning models. J Oper Res Soc 2021;73(1):91-101. http://dx.doi.org/10.1080/01605682.2020. 1865846.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 75,
+    "citation_text": "Yeh C-K, Kim B, Arik S, Li C-L, Pfister T, Ravikumar P. On completeness- aware concept-based explanations in deep neural networks. In: Larochelle H, Ranzato M, Hadsell R, Balcan M, Lin H, editors. In: Advances in neural information processing systems, vol. 33, Curran Associates, Inc.; 2020, p. 20554-65.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 76,
+    "citation_text": "Zhou J, Gandomi AH, Chen F, Holzinger A. Evaluating the quality of machine learning explanations: A survey on methods and metrics. Electron- ics 2021;10(5). http://dx.doi.org/10.3390/electronics10050593, URL https:// www.mdpi.com/2079-9292/10/5/593.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 77,
+    "citation_text": "Rudin C, Chen C, Chen Z, Huang H, Semenova L, Zhong C. Interpretable machine learning: Fundamental principles and 10 grand challenges. Stat Surv 2022;16:1-85.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 78,
+    "citation_text": "Goodman B, Flaxman S. European union regulations on algorithmic decision making and a ‘‘Right to Explanation’’. AI Mag 2017;38(3):50-7. http://dx.doi. org/10.1609/aimag.v38i3.2741.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 79,
+    "citation_text": "Woisetschläger H, Erben A, Marino B, Wang S, Lane ND, Mayer R, et al. Federated learning priorities under the European union artificial intelligence act. 2024, arXiv:2402.05968. URL https://arxiv.org/abs/2402.05968.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 80,
+    "citation_text": "Laux J, Wachter S, Mittelstadt B. Trustworthy artificial intelligence and the European union AI act: On the conflation of trustworthiness and acceptability of risk. Regul Gov 2023;18(1):3-32. http://dx.doi.org/10.1111/rego.12512.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 81,
+    "citation_text": "Mienye ID, Jere N. A survey of decision trees: Concepts, algorithms, and ap- plications. IEEE Access 2024;12:86716-27. http://dx.doi.org/10.1109/ACCESS. 2024.3416838.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 82,
+    "citation_text": "Mienye ID, Sun Y. Effective feature selection for improved prediction of heart disease. In: Lecture notes of the institute for computer sciences, social infor- matics and telecommunications engineering. Springer International Publishing; 2022, p. 94-107. http://dx.doi.org/10.1007/978-3-030-93314-2_6.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 83,
+    "citation_text": "Esmaeilzadeh P. Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare or- ganizations. Artif Intell Med 2024;151:102861. http://dx.doi.org/10.1016/j. artmed.2024.102861, URL https://www.sciencedirect.com/science/article/pii/ S0933365724001039.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 84,
+    "citation_text": "Xu T, White J, Kalkan S, Gunes H. Investigating bias and fairness in facial expression recognition. In: Lecture notes in computer science. Springer Inter- national Publishing; 2020, p. 506-23. http://dx.doi.org/10.1007/978-3-030- 65414-6_35.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 85,
+    "citation_text": "Wang Y, Ma W, Zhang M, Liu Y, Ma S. A survey on the fairness of recommender systems. ACM Trans Inf Syst 2023;41(3):1-43. http://dx.doi.org/ 10.1145/3547333.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 86,
+    "citation_text": "Islam R, Keya KN, Pan S, Sarwate AD, Foulds JR. Differential fairness: An intersectional framework for fair AI. Entropy 2023;25(4). http://dx.doi.org/10. 3390/e25040660, URL https://www.mdpi.com/1099-4300/25/4/660.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 87,
+    "citation_text": "De Schutter L, De Cremer D. How counterfactual fairness modelling in al- gorithms can promote ethical decision-making. Int J Hum-Comput Interact 2023;40(1):33-44. http://dx.doi.org/10.1080/10447318.2023.2247624.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 88,
+    "citation_text": "Harris CG. Combining human-in-the-loop systems and AI fairness toolkits to reduce age bias in AI job hiring algorithms. In: 2024 IEEE international conference on big data and smart computing. 2024, p. 60-6. http://dx.doi. org/10.1109/BigComp60711.2024.00019.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 89,
+    "citation_text": "Beneyto A, Puig V, Bequette BW, Vehi J. A hybrid automata approach for monitoring the patient in the loop in artificial pancreas systems. Sensors 2021;21(21). http://dx.doi.org/10.3390/s21217117, URL https://www.mdpi. com/1424-8220/21/21/7117.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 90,
+    "citation_text": "Retzlaff CO, Das S, Wayllace C, Mousavi P, Afshari M, Yang T, et al. Human- in-the-loop reinforcement learning: A survey and position on requirements, challenges, and opportunities. J Artificial Intelligence Res 2024;79:359-415. http://dx.doi.org/10.1613/jair.1.15348.",
+    "source_page": 14,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 91,
+    "citation_text": "Cashaback JGA, Allen JL, Chou AH-Y, Lin DJ, Price MA, Secerovic NK, et al. NSF DARE-transforming modeling in neurorehabilitation: a patient-in-the- loop framework. J NeuroEng Rehabil 2024;21(1). http://dx.doi.org/10.1186/ s12984-024-01318-9.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 92,
+    "citation_text": "Holzinger A, Langs G, Denk H, Zatloukal K, Müller H. Causability and explainability of artificial intelligence in medicine. WIREs Data Min Knowl Discov 2019;9(4). http://dx.doi.org/10.1002/widm.1312.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 93,
+    "citation_text": "Tjoa E, Guan C. A survey on explainable artificial intelligence (XAI): Toward medical XAI. IEEE Trans Neural Netw Learn Syst 2021;32(11):4793-813. http: //dx.doi.org/10.1109/TNNLS.2020.3027314.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 94,
+    "citation_text": "Hase P, Chen C, Li O, Rudin C. Interpretable image recognition with hierarchical prototypes. In: Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, In: Proceedings of the AAAI Conference on Human Computation and Crowdsourcing, 2019;vol. 7:32-40.http://dx.doi.org/10.1609/hcomp.v7i1. 5265,",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 95,
+    "citation_text": "Lundberg S, Lee S-I. A unified approach to interpreting model predictions. 2017, arXiv:1705.07874. URL https://arxiv.org/abs/1705.07874.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 96,
+    "citation_text": "Li X, Wu R, Zhao W, Shi R, Zhu Y, Wang Z, et al. Machine learning algorithm to predict mortality in critically ill patients with sepsis-associated acute kidney injury. Sci Rep 2023;13(1). http://dx.doi.org/10.1038/s41598-023-32160-z.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 97,
+    "citation_text": "Tonekaboni S, Joshi S, McCradden MD, Goldenberg A. What clinicians want: Contextualizing explainable machine learning for clinical end use. In: Doshi- Velez F, Fackler J, Jung K, Kale D, Ranganath R, Wallace B, et al., editors. Proceedings of the 4th machine learning for healthcare conference. Proceedings of machine learning research, vol. 106, PMLR; 2019, p. 359-80, URL https: //proceedings.mlr.press/v106/tonekaboni19a.html.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 98,
+    "citation_text": "Bento V, Kohler M, Diaz P, Mendoza L, Pacheco MA. Improving deep learning performance by using explainable artificial intelligence (XAI) approaches. Discov Artif Intell 2021;1(1). http://dx.doi.org/10.1007/s44163-021-00008-y.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 99,
+    "citation_text": "Ou S-M, Tsai M-T, Lee K-H, Tseng W-C, Yang C-Y, Chen T-H, et al. Prediction of the risk of developing end-stage renal diseases in newly diagnosed type 2 diabetes mellitus using artificial intelligence algorithms. BioData Mining 2023;16(1). http://dx.doi.org/10.1186/s13040-023-00324-2.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 100,
+    "citation_text": "Alkhamis MA, Al Jarallah M, Attur S, Zubaid M. Interpretable machine learning models for predicting in-hospital and 30 days adverse events in acute coronary syndrome patients in Kuwait. Sci Rep 2024;14(1):1243.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 101,
+    "citation_text": "Thiruvenkadam K, Ravindran V, Thiyagarajan A. Deep learning with XAI based multi-modal MRI brain tumor image analysis using image fusion techniques. In: 2024 international conference on trends in quantum computing and emerging business technologies. 2024, p. 1-5. http://dx.doi.org/10.1109/TQCEBT59414. 2024.10545215.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 102,
+    "citation_text": "Sirapangi MD, Gopikrishnan S. MAIPFE: An efficient multimodal approach integrating pre-emptive analysis, personalized feature selection, and explainable AI. Comput Mater Contin 2024;79(2):2229-51. http://dx.doi.org/10.32604/ cmc.2024.047438.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 103,
+    "citation_text": "Khater T, Tawfik H, Singh B. Explainable artificial intelligence for investigating the effect of lifestyle factors on obesity. Intell Syst Appl 2024;23:200427. http://dx.doi.org/10.1016/j.iswa.2024.200427, URL https://www.sciencedirect. com/science/article/pii/S2667305324001017.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 104,
+    "citation_text": "Mienye ID, Kenneth Ainah P, Emmanuel ID, Esenogho E. Sparse noise minimiza- tion in image classification using genetic algorithm and DenseNet. In: 2021 conference on information communications technology and society. 2021, p. 103-8. http://dx.doi.org/10.1109/ICTAS50802.2021.9395014.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 105,
+    "citation_text": "Salehi AW, Khan S, Gupta G, Alabduallah BI, Almjally A, Alsolai H, et al. A study of CNN and transfer learning in medical imaging: Advantages, challenges, future scope. Sustainability 2023;15(7). http://dx.doi.org/10.3390/ su15075930, URL https://www.mdpi.com/2071-1050/15/7/5930.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 106,
+    "citation_text": "Ahmed M, Bibi T, Khan RA, Nasir S. Enhancing breast cancer diagnosis in mammography: Evaluation and integration of convolutional neural networks and explainable AI. 2024, arXiv:2404.03892. URL https://arxiv.org/abs/2404. 03892.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 107,
+    "citation_text": "DeGrave AJ, Janizek JD, Lee S-I. AI for radiographic COVID-19 detection selects shortcuts over signal. Nat Mach Intell 2021;3(7):610-9. http://dx.doi.org/10. 1038/s42256-021-00338-7.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 108,
+    "citation_text": "Baumgartner CF, Koch LM, Tezcan KC, Ang JX, Konukoglu E. Visual feature attribution using wasserstein GANs. 2018, arXiv:1711.08998. URL https://arxiv. org/abs/1711.08998.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 109,
+    "citation_text": "Gargeya R, Leng T. Automated identification of diabetic retinopathy using deep learning. Ophthalmology 2017;124(7):962-9. http://dx.doi.org/10.1016/ j.ophtha.2017.02.008, URL https://www.sciencedirect.com/science/article/pii/ S0161642016317742.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 110,
+    "citation_text": "Musthafa MM, Mahesh TR, Kumar VV, Guluwadi S. Enhancing brain tumor detection in MRI images through explainable AI using grad-CAM with resnet 50. BMC Med Imaging 2024;24(1). http://dx.doi.org/10.1186/s12880-024-01292- 7.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 111,
+    "citation_text": "Wang X, Wang W, Ren H, Li X, Wen Y. Prediction and analysis of risk factors for diabetic retinopathy based on machine learning and interpretable models. Heliyon 2024;10(9):e29497. http://dx.doi.org/10.1016/j.heliyon.2024.e29497.",
+    "source_page": 14,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 112,
+    "citation_text": "Albahri A, Duhaim AM, Fadhel MA, Alnoor A, Baqer NS, Alzubaidi L, et al. A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion. Inf Fusion 2023;96:156-91. http://dx.doi.org/10.1016/j.inffus.2023.03.008, URL https:// www.sciencedirect.com/science/article/pii/S1566253523000891.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 113,
+    "citation_text": "Ramoliya F, Gohil K, Gohil A, Gupta R, Kakkar R, Tanwar S, et al. X-CaD: Explainable AI for skin cancer diagnosis in healthcare 4.0 telesurgery. In: ICC 2024 - IEEE international conference on communications. 2024, p. 238-43. http://dx.doi.org/10.1109/ICC51166.2024.10622832.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 114,
+    "citation_text": "Arcadu F, Benmansour F, Maunz A, Willis J, Haskova Z, Prunotto M. Deep learn- ing algorithm predicts diabetic retinopathy progression in individual patients. npj Digit Med 2019;2(1). http://dx.doi.org/10.1038/s41746-019-0172-3.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 115,
+    "citation_text": "Patel M, Gohil K, Gohil A, Ramoliya F, Gupta R, Tanwar S, et al. Explainable AI for gastrointestinal disease diagnosis in telesurgery healthcare 4.0. Comput Electr Eng 2024;118:109414. http://dx.doi.org/10.1016/j.compeleceng. 2024.109414, URL https://www.sciencedirect.com/science/article/pii/ S0045790624003422.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 116,
+    "citation_text": "Awotunde JB, Jimoh RG, Adeniyi AE, Ayo EF, Ajamu GJ, Aremu DR. Ap- plication of interpretable artificial intelligence enabled cognitive internet of things for COVID-19 pandemics. In: Explainable machine learning for multi- media based healthcare applications. Springer International Publishing; 2023, p. 191-213. http://dx.doi.org/10.1007/978-3-031-38036-5_11.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 117,
+    "citation_text": "De Fauw J, Ledsam JR, Romera-Paredes B, Nikolov S, Tomasev N, Blackwell S, et al. Clinically applicable deep learning for diagnosis and referral in retinal disease. Nature Med 2018;24(9):1342-50. http://dx.doi.org/10.1038/s41591- 018-0107-6.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 118,
+    "citation_text": "Ribeiro MM, Rocha LB, Leal CC, Santos AR, Pires DS, Santana E, et al. Automatic detection of arrhythmias from imbalanced data using machine learning techniques. Expert Syst Appl 2020;158:113551.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 119,
+    "citation_text": "Li H, Yang Y, Hong W, Huang M, Wu M, Zhao X. Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects. Signal Transduct Target Ther 2020;5(1). http://dx.doi.org/10. 1038/s41392-019-0089-y.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 120,
+    "citation_text": "Miotto R, Wang F, Wang S, Jiang X, Dudley JT. Deep learning for healthcare: review, opportunities and challenges. Brief Bioinform 2018;19(6):1236-46.",
+    "source_page": 15,
+    "source_column": "left",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 121,
+    "citation_text": "Hauser K, Kurz A, Haggenmüller S, Maron RC, von Kalle C, Utikal JS, et al. Ex- plainable artificial intelligence in skin cancer recognition: A systematic review. Eur J Cancer 2022;167:54-69. http://dx.doi.org/10.1016/j.ejca.2022.02.025, URL https://www.sciencedirect.com/science/article/pii/S095980492200123X.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 122,
+    "citation_text": "Char DS, Shah NH, Magnus D. Implementing machine learning in health care - Addressing ethical challenges. N Engl J Med 2018;378(11):981-3. http: //dx.doi.org/10.1056/nejmp1714229.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 123,
+    "citation_text": "Jobin A, Ienca M, Vayena E. The global landscape of AI ethics guidelines. Nat Mach Intell 2019;1(9):389-99. http://dx.doi.org/10.1038/s42256-019-0088-2.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 124,
+    "citation_text": "Garrido-Muñoz I, Montejo-Ráez A, Martínez-Santiago F, Ureña-López LA. A survey on bias in deep NLP. Appl Sci 2021;11(7). http://dx.doi.org/10.3390/ app11073184, URL https://www.mdpi.com/2076-3417/11/7/3184.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 125,
+    "citation_text": "Rajkomar A, Hardt M, Howell MD, Corrado G, Chin MH. Ensuring fairness in machine learning to advance health equity. Ann Intern Med 2018;169(12):866- 72. http://dx.doi.org/10.7326/M18-1990, PMID: 30508424. URL https://www. acpjournals.org/doi/abs/10.7326/M18-1990.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 126,
+    "citation_text": "Mitchell S, Potash E, Barocas S, D’Amour A, Lum K. Algorithmic fairness: Choices, assumptions, and definitions. Annu Rev Stat Appl 2021;8(1):141-63. http://dx.doi.org/10.1146/annurev-statistics-042720-125902.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 127,
+    "citation_text": "He J, Hao Y, Wang X. An interpretable aid decision-making model for flag state control ship detention based on SMOTE and XGBoost. J Mar Sci Eng 2021;9(2). http://dx.doi.org/10.3390/jmse9020156, URL https://www.mdpi. com/2077-1312/9/2/156.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 128,
+    "citation_text": "Lipton ZC. The mythos of model interpretability. Commun ACM 2018;61(10):36-43. http://dx.doi.org/10.1145/3233231.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 129,
+    "citation_text": "Rudin C. Stop explaining black box machine learning models for high stakes de- cisions and use interpretable models instead. Nat Mach Intell 2019;1(5):206-15. http://dx.doi.org/10.1038/s42256-019-0048-x.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 130,
+    "citation_text": "Yang Z, Zhang A, Sudjianto A. GAMI-Net: An explainable neural network based on generalized additive models with structured interactions. Pattern Recognit 2021;120:108192. http://dx.doi.org/10.1016/j.patcog.2021.108192, URL https: //www.sciencedirect.com/science/article/pii/S0031320321003484.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  },
+  {
+    "reference_number": 131,
+    "citation_text": "Kuang K, Li L, Geng Z, Xu L, Zhang K, Liao B, et al. Causal inference. En- gineering 2020;6(3):253-63. http://dx.doi.org/10.1016/j.eng.2019.08.016, URL https://www.sciencedirect.com/science/article/pii/S2095809919305235.",
+    "source_page": 15,
+    "source_column": "right",
+    "verification_status": "extracted_from_survey_not_independently_verified"
+  }
+]
